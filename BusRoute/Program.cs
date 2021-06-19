@@ -29,18 +29,7 @@ namespace Demos.BusRoute
 
         public static BusRoute[] FindBusTO(BusRoute[] routes, String location)
         {
-            /*
-            foreach (var r in routes)
-            {
-                if (r.Origin == location || r.Destination == location)
-                {
-                    return r;
-                }
-            }
-
-            return null ;
-            */
-            return Array.FindAll(routes, r => r.Origin == location || r.Destination == location);
+            return Array.FindAll(routes, r => r.Serves(location));
         }
 
     }

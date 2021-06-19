@@ -9,10 +9,10 @@ namespace Demos.BusRoute
 
             return new BusRoute[]
             {
-                new BusRoute(40,"MoreCamp","Preston") ,
-                new BusRoute(41,"Lancaster","BlackPool") ,
-                new BusRoute(100,"University","MoreCamp") ,
-                new BusRoute(555,"Lancaster","Keswick")
+                new BusRoute(40,new string[]{"MoreCamp","Lancaster","Garstang","Preston"}) ,
+                new BusRoute(42,new string[]{"Lancaster","Garstang","BlackPool"}) ,
+                new BusRoute(100,new string[]{"University","Lancaster","MoreCamp"}) ,
+                new BusRoute(555,new string[]{"Lancaster","Carnforth","Kendal","Winderemere","Keswick"})
             };
         }    
     }

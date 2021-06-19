@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahmad Kater\\Desktop\\Working with C# Collections\\Demos\\BusRoute\\BusRoute.csproj": {}
+    "C:\\Users\\Ahmad Kater\\Desktop\\C#_Collections\\CSharp-Collections-Demos\\BusRoute\\BusRoute.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahmad Kater\\Desktop\\Working with C# Collections\\Demos\\BusRoute\\BusRoute.csproj": {
+    "C:\\Users\\Ahmad Kater\\Desktop\\C#_Collections\\CSharp-Collections-Demos\\BusRoute\\BusRoute.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmad Kater\\Desktop\\Working with C# Collections\\Demos\\BusRoute\\BusRoute.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmad Kater\\Desktop\\C#_Collections\\CSharp-Collections-Demos\\BusRoute\\BusRoute.csproj",
         "projectName": "BusRoute",
-        "projectPath": "C:\\Users\\Ahmad Kater\\Desktop\\Working with C# Collections\\Demos\\BusRoute\\BusRoute.csproj",
+        "projectPath": "C:\\Users\\Ahmad Kater\\Desktop\\C#_Collections\\CSharp-Collections-Demos\\BusRoute\\BusRoute.csproj",
         "packagesPath": "C:\\Users\\Ahmad Kater\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmad Kater\\Desktop\\Working with C# Collections\\Demos\\BusRoute\\obj\\",
+        "outputPath": "C:\\Users\\Ahmad Kater\\Desktop\\C#_Collections\\CSharp-Collections-Demos\\BusRoute\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
