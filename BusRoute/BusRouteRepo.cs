@@ -7,8 +7,8 @@ namespace Demos.BusRoute
     {
         private readonly BusRoute[] _allRoutes;
 
-        public readonly string[,] timesRoute5 ;
-        
+        public readonly string[][] timesRoute5 ;
+
         public BusRouteRepo()
         {
             _allRoutes = new BusRoute[]
@@ -24,11 +24,11 @@ namespace Demos.BusRoute
                 new BusRoute(555,new string[]{"Lancaster","Carnforth","Kendal","Winderemere","Keswick"})
             };
 
-            timesRoute5 = new string[,]
+            timesRoute5 = new string[][]
             {
-                {"15:40","16:40","17:40","18:40"},
-                {"16:08","17:08","18:08","19:08"},
-                {"16:35","17:35","18:35","19:35"}
+                new string[]{"15:40","16:40","17:40","18:40"},
+                new string[]{"16:08","17:08","18:08","19:08"},
+                new string[]{"16:35","17:35","18:35"}
             };
 
             BustimeRoute5 = new BusTimes(Array.Find(_allRoutes , r => r.Number == 5), timesRoute5);
