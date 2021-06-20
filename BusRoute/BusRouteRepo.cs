@@ -25,9 +25,6 @@ namespace Demos.BusRoute
         public BusRoute[] FindBusesTo(string location)
         
         => Array.FindAll(_allroutes,route => route.Serves(location));
-
-        public BusRoute[] FindBusesBetween(string location1,string location2)
         
-        => Array.FindAll(_allroutes,route => route.Serves(location1) && route.Serves(location2));
     }
 }

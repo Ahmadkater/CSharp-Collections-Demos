@@ -19,9 +19,14 @@ namespace Demos.BusRoute
 
             string goingTo = System.Console.ReadLine();
 
-            BusRoute[] routes = repo.FindBusesBetween(startingAt , goingTo);
+            BusRoute[] originRoutes = repo.FindBusesTo(startingAt);
+            BusRoute[] destinationRoutes = repo.FindBusesTo(goingTo);
 
-            if (routes.Length > 0)
+            var routes = new HashSet<BusRoute>(originRoutes);
+            routes.IntersectWith(destinationRoutes);
+
+
+            if (routes.Count > 0)
             {
                 foreach (var r in routes)
                 {
