@@ -15,7 +15,7 @@ namespace Station
             }
 
             bs.BusArrive(b) ;
-
+            b.ArriveAtTerminus();
         }
     }
 }
