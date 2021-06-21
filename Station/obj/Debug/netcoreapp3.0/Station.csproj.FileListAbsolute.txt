@@ -1,0 +1,11 @@
+C:\Users\Ahmad Kater\Desktop\C#_Collections\CSharp-Collections-Demos\Station\obj\Debug\netcoreapp3.0\Station.csprojAssemblyReference.cache
+C:\Users\Ahmad Kater\Desktop\C#_Collections\CSharp-Collections-Demos\Station\obj\Debug\netcoreapp3.0\Station.AssemblyInfoInputs.cache
+C:\Users\Ahmad Kater\Desktop\C#_Collections\CSharp-Collections-Demos\Station\obj\Debug\netcoreapp3.0\Station.AssemblyInfo.cs
+C:\Users\Ahmad Kater\Desktop\C#_Collections\CSharp-Collections-Demos\Station\bin\Debug\netcoreapp3.0\Station.exe
+C:\Users\Ahmad Kater\Desktop\C#_Collections\CSharp-Collections-Demos\Station\bin\Debug\netcoreapp3.0\Station.deps.json
+C:\Users\Ahmad Kater\Desktop\C#_Collections\CSharp-Collections-Demos\Station\bin\Debug\netcoreapp3.0\Station.runtimeconfig.json
+C:\Users\Ahmad Kater\Desktop\C#_Collections\CSharp-Collections-Demos\Station\bin\Debug\netcoreapp3.0\Station.runtimeconfig.dev.json
+C:\Users\Ahmad Kater\Desktop\C#_Collections\CSharp-Collections-Demos\Station\bin\Debug\netcoreapp3.0\Station.dll
+C:\Users\Ahmad Kater\Desktop\C#_Collections\CSharp-Collections-Demos\Station\bin\Debug\netcoreapp3.0\Station.pdb
+C:\Users\Ahmad Kater\Desktop\C#_Collections\CSharp-Collections-Demos\Station\obj\Debug\netcoreapp3.0\Station.dll
+C:\Users\Ahmad Kater\Desktop\C#_Collections\CSharp-Collections-Demos\Station\obj\Debug\netcoreapp3.0\Station.pdb
